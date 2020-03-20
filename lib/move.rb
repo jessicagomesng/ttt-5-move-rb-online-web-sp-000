@@ -11,4 +11,4 @@ def input_to_index(input)
   "#{input}".to_i - 1
 end
 
-input_to_index(3)
+puts input_to_index(3)
